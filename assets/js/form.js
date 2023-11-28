@@ -35,9 +35,9 @@ $(document).ready(function()
 				"data": JSON.stringify({ 
 					"name": name,
 					"sender_mail": email,
-					"subject": "CONTACT ME: freddythobhani.com",
+					"subject": "CONTACT ME:miralkazmi23@gmail.com",
 					"message": message,
-					"receiver": "thobhani.freddy@gmail.com" 
+					"receiver": "miralkazmi23@gmail.com" 
 				}),
 			};
 			
