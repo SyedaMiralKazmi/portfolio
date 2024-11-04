@@ -16,7 +16,7 @@ img {
 
 a {
   outline: 0 !important;
-  color: #f57f17;
+  color: #77b6c9 ;
 }
 
 a:hover {
@@ -30,7 +30,7 @@ a img {
 /* 1.1 Layout add-ons */
 
 .primary-color {
-	color: #f57f17 !important;
+	color: #77b6c9 !important;
 }
 
 .bullet {
@@ -49,7 +49,7 @@ a img {
   width: 290px;
   height: 3px;
   padding: 0 !important;
-  background: #f57f17;
+  background: #77b6c9;
 }
 
 .separator {
@@ -140,19 +140,19 @@ a img {
 }
 
 .fav-skills {
-  display: flex; 
-  flex:1; 
-  flex-direction: row; 
-  align-items: center;  
+  display: flex;
+  flex:1;
+  flex-direction: row;
+  align-items: center;
   justify-content: space-between
 }
 
 @media (max-width: 400px) {
   .fav-skills {
-    display: flex; 
-    flex:1; 
-    flex-direction: column; 
-    align-items: center;  
+    display: flex;
+    flex:1;
+    flex-direction: column;
+    align-items: center;
     justify-content: space-between;
     width: 100%;
   }
@@ -207,7 +207,7 @@ textarea.error {
 .button {
   display: inline-block;
   color: #ffffff !important;
-  background-color: #ffca28 !important;
+  background-color: #0f3292 !important;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
@@ -220,7 +220,7 @@ textarea.error {
 
 .button:hover {
   color: #ffffff !important;
-  background-color: #ffd966 !important;
+  background-color:#8ed2e7 !important;
 }
 
 .button-small {
@@ -244,18 +244,18 @@ textarea.error {
   width: 100%;
   height: 100%;
   position: relative;
-  background-color: #ffca28;
+  background-color:#77b6c9;
   color: #fff;
 }
 
 #intro .line {
-  background-color: #f57f17;
+  background-color:#77b6c9;
 }
 #intro .bullet {
-  color: #f57f17;
+  color:#77b6c9;
 }
 #intro a {
-  color: #f57f17;
+  color: #77b6c9;
 }
 
 /* .top-decorations {
@@ -280,7 +280,7 @@ textarea.error {
 }
 
 #nav-sticky-wrapper.is-sticky #nav {
-  background-color: #ffca28;
+  background-color:#77b6c9;
 }
 
 #nav ul {
@@ -359,13 +359,13 @@ textarea.error {
   width: 75%
 }
 #profile .line {
-  background-color: #f57f17;
+  background-color: #77b6c9;
 }
 #profile .bullet {
-  color: #f57f17;
+  color: #77b6c9;
 }
 #profile a {
-  color: #f57f17;
+  color:#77b6c9;
 }
 
 .social-links {
@@ -393,7 +393,7 @@ textarea.error {
 }
 
 #skills .line {
-  background-color: #f57f17;
+  background-color:#77b6c9;
 }
 
 .skill {
@@ -417,10 +417,10 @@ textarea.error {
 /* 5. Experience */
 
 #experience .line {
-  background-color: #f57f17;
+  background-color:#77b6c9;
 }
 #experience .bullet {
-  color: #f57f17;
+  color:#77b6c9;
 }
 
 .job h3 {
@@ -459,13 +459,13 @@ textarea.error {
 }
 
 #education .line {
-  background-color: #f57f17;
+  background-color:#77b6c9;
 }
 #education .bullet {
-  color: #f57f17;
+  color: #77b6c9;
 }
 #education a {
-  color: #f57f17;
+  color: #77b6c9;
 }
 
 .school h3 {
@@ -483,13 +483,13 @@ textarea.error {
 /* 7. Portfolio */
 
 #portfolio .line {
-  background-color: #f08b65;
+  background-color:#77b6c9;
 }
 #portfolio .bullet {
-  color: #f08b65;
+  color:#77b6c9;
 }
 #portfolio a {
-  color: #f08b65;
+  color:#77b6c9;
 }
 
 .project {
@@ -499,15 +499,15 @@ textarea.error {
 }
 
 .project-section {
-  display: flex; 
-  flex-direction: column; 
+  display: flex;
+  flex-direction: column;
   align-items: center
 }
 
 .project-images {
-  display: flex; 
-  flex:1; 
-  justify-content: space-evenly; 
+  display: flex;
+  flex:1;
+  justify-content: space-evenly;
   width: 100%
 }
 
@@ -529,13 +529,13 @@ textarea.error {
 
 .filters li:hover,
 .filters li.active {
-  color: #f08b65;
+  color:#77b6c9;
 }
 
 .filters li:before {
   content: "\2022";
   padding: 0 10px;
-  color: #f08b65;
+  color:#77b6c9;
 }
 
 .filters li:first-child:before {
@@ -558,13 +558,13 @@ textarea.error {
 }
 
 #contact .line {
-  background-color: #f57f17;
+  background-color: #77b6c9;
 }
 #contact .bullet {
-  color: #f57f17;
+  color: #77b6c9;
 }
 #contact a {
-  color: #f57f17;
+  color: #77b6c9;
 }
 
 #contact input[type="text"],
@@ -643,9 +643,9 @@ textarea.error {
     width: 100%;
   }
   .project-images {
-    display: flex; 
-    flex:1; 
-    justify-content: space-evenly; 
+    display: flex;
+    flex:1;
+    justify-content: space-evenly;
     width: 100%;
     flex-direction: column;
   }
